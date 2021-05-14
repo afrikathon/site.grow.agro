@@ -5,6 +5,8 @@
 To start 'Gulp' => npm run start
 
 File Structure:
+
+```sh
 famie/
 └── src/
     ├── css/
@@ -61,3 +63,4 @@ famie/
     ├── shop.html
     ├── style.css
     └── style.css.map
+```
