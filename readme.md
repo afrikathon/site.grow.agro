@@ -2,7 +2,7 @@
 // Template Author: Colorlib
 // Template Author URI: http://colorlib.com
 
-To start 'Gulp' => npm run start
+To start **'Gulp'** => npm run start
 
 File Structure:
 
